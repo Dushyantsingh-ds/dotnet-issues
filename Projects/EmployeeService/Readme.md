@@ -206,17 +206,17 @@ At this point when you navigate to /api/employees you should see all employees a
 <details>
   <summary>Error Project </summary>
   
- Get: <br/>
+ Get: //Working <br/> 
   Get/ <br/>
   Get/ID <br/> <br/>
   
-Post: <br/>
+Post: //Working <br/>
   Get/ <br/><br/>
   
- Put:  not wokring <br/>
+ Put: //Not wokring <br/>
   Get/ID + [BodyForm] Employee <br/><br/>
   
- Delete: not working <br/><br/>
+ Delete: //Not working <br/><br/>
   Get/ID<br/><br/>
   
   error: HTTP/1.1 405 Method Not Allowed
