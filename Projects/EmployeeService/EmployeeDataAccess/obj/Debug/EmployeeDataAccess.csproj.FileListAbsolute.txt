@@ -1,0 +1,10 @@
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\Dushyant\Desktop\json projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
