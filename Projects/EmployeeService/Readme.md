@@ -221,5 +221,5 @@ Post: <br/>
   
   error: HTTP/1.1 405 Method Not Allowed
 
-![alt txt](https://github.com/Dushyantsingh-ds/dotnet-issues/new/main/Projects/EmployeeService/ss1.png)
+![alt txt](https://raw.githubusercontent.com/Dushyantsingh-ds/dotnet-issues/main/Projects/EmployeeService/ss1.png)
   </details>
